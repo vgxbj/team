@@ -1,0 +1,32 @@
+{
+  "name": "docsrs-ops",
+  "kind": "marker_team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Onur Aslan",
+      "github": "onur",
+      "github_id": 345828,
+      "is_lead": false
+    },
+    {
+      "name": "QuietMisdreavus",
+      "github": "QuietMisdreavus",
+      "github_id": 5217170,
+      "is_lead": false
+    }
+  ],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "docsrs-ops",
+        "members": [
+          345828,
+          5217170
+        ]
+      }
+    ]
+  },
+  "website_data": null
+}

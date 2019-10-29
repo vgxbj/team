@@ -1,0 +1,32 @@
+{
+  "name": "wg-net-web",
+  "kind": "working_group",
+  "subteam_of": "wg-net",
+  "members": [
+    {
+      "name": "Aaron Turon",
+      "github": "aturon",
+      "github_id": 709807,
+      "is_lead": true
+    },
+    {
+      "name": "Yoshua Wuyts",
+      "github": "yoshuawuyts",
+      "github_id": 2467194,
+      "is_lead": true
+    }
+  ],
+  "github": null,
+  "website_data": {
+    "name": "Web foundations working group",
+    "description": "Our goal is to improve web programming in Rust.",
+    "page": "wg-net-web",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#wg-net-web",
+      "url": "https://discord.gg/NKHgJpq"
+    },
+    "weight": 0
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "production",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Aidan Hobson Sayers",
+      "github": "aidanhs",
+      "github_id": 1050652,
+      "is_lead": true
+    },
+    {
+      "name": "Aaron Turon",
+      "github": "aturon",
+      "github_id": 709807,
+      "is_lead": false
+    },
+    {
+      "name": "Claus Matzinger",
+      "github": "celaus",
+      "github_id": 713346,
+      "is_lead": false
+    }
+  ],
+  "github": null,
+  "website_data": null
+}

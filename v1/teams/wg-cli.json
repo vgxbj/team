@@ -1,0 +1,68 @@
+{
+  "name": "wg-cli",
+  "kind": "working_group",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Daniel Sockwell",
+      "github": "codesections",
+      "github_id": 35405463,
+      "is_lead": false
+    },
+    {
+      "name": "Dylan DPC",
+      "github": "Dylan-DPC",
+      "github_id": 12371125,
+      "is_lead": false
+    },
+    {
+      "name": "Ed Page",
+      "github": "epage",
+      "github_id": 60961,
+      "is_lead": false
+    },
+    {
+      "name": "Pascal Hertleif",
+      "github": "killercup",
+      "github_id": 20063,
+      "is_lead": false
+    },
+    {
+      "name": "Matthias Beyer",
+      "github": "matthiasbeyer",
+      "github_id": 427866,
+      "is_lead": false
+    },
+    {
+      "name": "Katharina Fey",
+      "github": "spacekookie",
+      "github_id": 7669898,
+      "is_lead": false
+    },
+    {
+      "name": "Erin Power",
+      "github": "XAMPPRocky",
+      "github_id": 4464295,
+      "is_lead": false
+    },
+    {
+      "name": "Yoshua Wuyts",
+      "github": "yoshuawuyts",
+      "github_id": 2467194,
+      "is_lead": false
+    }
+  ],
+  "github": null,
+  "website_data": {
+    "name": "Command-line interfaces (CLI) working group",
+    "description": "Focusing on the end-to-end experience of writing CLI apps, both large and small, in Rust.",
+    "page": "cli",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#wg-cli",
+      "url": "https://discord.gg/BXCBYX6"
+    },
+    "weight": 0
+  }
+}

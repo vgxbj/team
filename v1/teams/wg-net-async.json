@@ -1,0 +1,32 @@
+{
+  "name": "wg-net-async",
+  "kind": "working_group",
+  "subteam_of": "wg-net",
+  "members": [
+    {
+      "name": "Taylor Cramer",
+      "github": "cramertj",
+      "github_id": 5963049,
+      "is_lead": true
+    },
+    {
+      "name": "Josef Brandl",
+      "github": "MajorBreakfast",
+      "github_id": 340142,
+      "is_lead": true
+    }
+  ],
+  "github": null,
+  "website_data": {
+    "name": "Async foundations working group",
+    "description": "Our goal is to bring async/await onto a path to stabilization and to provide documentation for asynchronous programming.",
+    "page": "wg-net-async",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#wg-net-async",
+      "url": "https://discord.gg/JebCvj5"
+    },
+    "weight": 0
+  }
+}
